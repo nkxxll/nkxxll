@@ -18,7 +18,3 @@
 - [byebye](https://github.com/d1psy-sh/byebye)
 - [ascii_clock](https://github.com/d1psy-sh/ascii_clock)
 - [timer](https://github.com/caarlos0/timer)
-
----
-
-![d1psy-sh's GitHub stats](https://github-readme-stats.vercel.app/api?username=d1psy-sh&show_icons=true&theme=dark)
