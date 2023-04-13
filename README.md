@@ -10,7 +10,7 @@
 
 ## Projects I am working on
 
-- [github messages](#)
+- some open souce stuff 😉
 
 ## Projects I liked working on
 
@@ -18,3 +18,4 @@
 - [byebye](https://github.com/d1psy-sh/byebye)
 - [ascii_clock](https://github.com/d1psy-sh/ascii_clock)
 - [timer](https://github.com/caarlos0/timer)
+- [ghmsg](https://github.com/d1psy-sh/ghmsg)
