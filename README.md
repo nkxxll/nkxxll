@@ -1,4 +1,4 @@
-# d1psy-sh ~ nkirschall
+# nkxxll ~ nkirschall
 
 * Student 👨‍💻
 * Curious 🤔
@@ -10,7 +10,15 @@
 
 ## Projects I am working on
 
-- some open souce stuff 😉
+- try to get into malware development
+  - here I am learning the Win32 API
+  - and learn some malware evation techniques
+- I'm currently writing a blog website in svelte
+  - here I am learning front end development
+  - and the svelte/svelte kit framework in general
+- always trying to up my productivity and programming skills
+  - I am learning how to work with the tree datastructure in particular tree balancing
+  - and I am currently learning a new programming language ocaml which is very much fun and you learn how to program in a real functional style
 
 ## Projects I liked working on
 
