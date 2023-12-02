@@ -12,7 +12,7 @@
 
 - try to get into malware development
   - here I am learning the Win32 API
-  - and learn some malware evation techniques
+  - and learn some malware evasion techniques
 - I'm currently writing a blog website in svelte
   - here I am learning front end development
   - and the svelte/svelte kit framework in general
