@@ -1,29 +1,28 @@
-# nkxxll ~ nkirschall
+## Hi, I'm Niklas 👋
 
-* Student 👨‍💻
-* Curious 🤔
-* Coding  🖥️
+### I'm a Software Engineering Student (Master) with expertise in
 
-**Vim enthusiast**
+- Angular
+- Go
+- Java
+- Python
+- TypeScript
 
----
+I have dabbled with:
 
-## Projects I am working on
+- React
+- Svelte
+- Rust
+- Zig
+- Ocaml
+- Gleam
+- Elixir
+- HTMX
+- and any programming language on the planet
 
-- try to get into malware development
-  - here I am learning the Win32 API
-  - and learn some malware evasion techniques
-- I'm currently writing a blog website in svelte
-  - here I am learning front end development
-  - and the svelte/svelte kit framework in general
-- always trying to up my productivity and programming skills
-  - I am learning how to work with the tree datastructure in particular tree balancing
-  - and I am currently learning a new programming language ocaml which is very much fun and you learn how to program in a real functional style
+I'm still and will always be learning new technologies and programming languages, but currently I am
+interested in the Effect TypeScript ecosystem and Zig.
 
-## Projects I liked working on
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=nkxxll&show_icons=true&theme=react&rank_icon=github&card_width=475)](https://github.com/anuraghazra/github-readme-stats)
 
-- [openup](https://github.com/Horryportier/openup)
-- [byebye](https://github.com/d1psy-sh/byebye)
-- [ascii_clock](https://github.com/d1psy-sh/ascii_clock)
-- [timer](https://github.com/caarlos0/timer)
-- [ghmsg](https://github.com/d1psy-sh/ghmsg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkxxll&show_icons=true&theme=react&card_width=475)](https://github.com/anuraghazra/github-readme-stats)
